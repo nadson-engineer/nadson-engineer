@@ -75,7 +75,7 @@ Atualmente curso **Engenharia de Software** e direciono meus estudos para a cria
 ### 🎓 Formação & Certificações
 
 * **Bacharelado em Engenharia de Software** *(Em andamento)*
-* **Qualificação Profissional: Desenvolvimento Front-End** – SENAI
+* **Qualificação Profissional: Desenvolvimento Front-End** (SENAI)
 * *Certificações complementares em Desenvolvimento Web, Git, JavaScript e Python.*
 * **Idiomas:** Português (Nativo) | Inglês (Técnico)
 
