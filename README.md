@@ -24,21 +24,28 @@ Atualmente curso **Engenharia de Software** e direciono meus estudos para a cria
 
 ---
 
-### 🛠️ Stack Tecnológica & Competências
+### 🤖 Linguagens e Tecnologias
 
-| Camada | Tecnologias e Ferramentas |
-| :--- | :--- |
-| **Front-End** | `JavaScript (ES6+)` `TypeScript` `React.js` `HTML5` `CSS3` `Tailwind CSS` `Componentização` |
-| **Back-End & Bancos** | `Node.js` `Express` `APIs RESTful` `SQL` `MySQL` |
-| **IA & Automação** | `Python` `Integração de IA (Ollama)` `WhatsApp Chatbots` `Machine Learning (Conceitos)` |
-| **DevOps & Web** | `Git` `GitHub` `Deploy (Vercel / Cloudflare)` `Configuração de DNS/Domínios` `SEO Técnico` |
+<img align="left" alt="HTML" title="HTML" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="Tailwind" title="Tailwind CSS" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" title="TypeScript" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="React" title="React" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="Node" title="Node.js" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="MySQL" title="MySQL" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Python" title="Python" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="Git" title="Git" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<br clear="left"/>
+<br/>
 
 ---
 
 ### 💼 Experiência & Impacto Prático
 
 * **Evolução de Sistemas Corporativos:** Atuação direta no ecossistema Node.js e MySQL, focando em estabilidade e refatoração de código legado.
-* **Regras de Negócio & Integrações:** Análise e implementação de fluxos complexos para sistemas contábeis e fiscais, garantindo a consistência e segurança dos dados transacionais.
+* **Regras de Negócio & Integrações:** Análise e implementação de fluxo complexos para sistemas contábeis e fiscais, garantindo a consistência e segurança dos dados transacionais.
 * **Qualidade de Software:** Identificação proativa de bugs, aplicação de boas práticas de desenvolvimento (Clean Code) e versionamento rigoroso via Git/GitHub.
 
 ---
@@ -59,16 +66,8 @@ Atualmente curso **Engenharia de Software** e direciono meus estudos para a cria
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img 
-    height="180em" 
-    alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=nadson-engineer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-  />
-  <img 
-    height="180em" 
-    alt="Top Langs" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadson-engineer&layout=compact&theme=tokyonight&langs_count=7" 
-  />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nadson-engineer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nadson-engineer&theme=tokyonight" />
 </p>
 
 ---
@@ -78,7 +77,7 @@ Atualmente curso **Engenharia de Software** e direciono meus estudos para a cria
 * **Bacharelado em Engenharia de Software** *(Em andamento)*
 * **Qualificação Profissional: Desenvolvimento Front-End** – SENAI
 * *Certificações complementares em Desenvolvimento Web, JavaScript Avançado, Python e Git.*
-* **Idiomas:** Português (Nativo) | Inglês (Técnico para leitura de documentações e escrita de código)
+* **Idiomas:** Português (Nativo) | Inglês (Técnico)
 
 ---
 
