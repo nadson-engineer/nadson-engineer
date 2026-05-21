@@ -32,7 +32,7 @@ Atualmente curso **Engenharia de Software** e direciono meus estudos para a cria
 <img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" title="TypeScript" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="React" title="React" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="Node" title="Node.js" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Node" title="Node.js" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="left" alt="MySQL" title="MySQL" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Python" title="Python" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Git" title="Git" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
@@ -45,7 +45,7 @@ Atualmente curso **Engenharia de Software** e direciono meus estudos para a cria
 ### 💼 Experiência & Impacto Prático
 
 * **Evolução de Sistemas Corporativos:** Atuação direta no ecossistema Node.js e MySQL, focando em estabilidade e refatoração de código legado.
-* **Regras de Negócio & Integrações:** Análise e implementação de fluxo complexos para sistemas contábeis e fiscais, garantindo a consistência e segurança dos dados transacionais.
+* **Regras de Negócio & Integrações:** Análise e implementação de fluxos complexos para sistemas contábeis e fiscais, garantindo a consistência e segurança dos dados transacionais.
 * **Qualidade de Software:** Identificação proativa de bugs, aplicação de boas práticas de desenvolvimento (Clean Code) e versionamento rigoroso via Git/GitHub.
 
 ---
@@ -76,7 +76,7 @@ Atualmente curso **Engenharia de Software** e direciono meus estudos para a cria
 
 * **Bacharelado em Engenharia de Software** *(Em andamento)*
 * **Qualificação Profissional: Desenvolvimento Front-End** – SENAI
-* *Certificações complementares em Desenvolvimento Web, JavaScript Avançado, Python e Git.*
+* *Certificações complementares em Desenvolvimento Web, Git, JavaScript e Python.*
 * **Idiomas:** Português (Nativo) | Inglês (Técnico)
 
 ---
