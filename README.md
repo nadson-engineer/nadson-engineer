@@ -1,6 +1,6 @@
-# 👨🏻‍💻 Nadson Coelho (nadson-engineer)
+# Nadson Coelho
 
-### **Software Engineer | Full-Stack Developer | AI Integrations**
+### Software Engineer | Full-Stack Developer | AI Integrations
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nadson-oliveira" target="_blank">
@@ -13,18 +13,18 @@
 
 ---
 
-### 🚀 Sobre Mim
+### Sobre Mim
 
 Desenvolvedor Full Stack com experiência prática na **manutenção, evolução e otimização de sistemas web corporativos**. Atuo no desenvolvimento de interfaces modernas, responsivas e arquiteturas escaláveis, com forte foco na resolução de problemas reais de negócios e regras fiscais/contábeis.
 
 Atualmente curso **Engenharia de Software** e direciono meus estudos para a criação de aplicações robustas combinando o ecossistema **JavaScript (React/Node)** com **automações e inteligência artificial**.
 
-* 💻 **Foco atual:** Arquitetura de Software, Integrações de IA locais (Ollama) e otimização de performance Web.
-* ⚙️ **Metodologias:** Prática sólida em ambientes ágeis utilizando Scrum, Kanban e organização baseada em 5S.
+* **Foco atual:** Arquitetura de Software, Integrações de IA locais (Ollama) e otimização de performance Web.
+* **Metodologias:** Prática sólida em ambientes ágeis utilizando Scrum, Kanban e organização baseada em 5S.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img align="left" alt="HTML" title="HTML" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="35px" style="padding-right: 12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -42,7 +42,7 @@ Atualmente curso **Engenharia de Software** e direciono meus estudos para a cria
 
 ---
 
-### 💼 Experiência & Impacto Prático
+### Experiência & Impacto Prático
 
 * **Evolução de Sistemas Corporativos:** Atuação direta no ecossistema Node.js e MySQL, focando em estabilidade e refatoração de código legado.
 * **Regras de Negócio & Integrações:** Análise e implementação de fluxos complexos para sistemas contábeis e fiscais, garantindo a consistência e segurança dos dados transacionais.
@@ -50,20 +50,20 @@ Atualmente curso **Engenharia de Software** e direciono meus estudos para a cria
 
 ---
 
-### 💻 Projetos em Destaque
+### Projetos em Destaque
 
-🔬 **AI WhatsApp Chatbot (Node.js + Ollama)**
+**AI WhatsApp Chatbot (Node.js + Ollama)**
 > Desenvolvimento de um agente inteligente integrado ao WhatsApp. Processamento de mensagens em tempo real e orquestração de IA utilizando modelos locais com Ollama.
 
-🔐 **Auth & Validation System (Node.js + Resend)**
+**Auth & Validation System (Node.js + Resend)**
 > Sistema completo de autenticação corporativa com fluxos de login, recuperação de senha e validação de segurança via e-mail utilizando a API do Resend.
 
-🌐 **Web Performance & SEO Optimization (React + Tailwind)**
+**Web Performance & SEO Optimization (React + Tailwind)**
 > Criação de interfaces ricas com foco em Core Web Vitals, resultando em aplicações altamente responsivas, com SEO técnico estruturado e indexação otimizada no Google.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nadson-engineer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -72,7 +72,7 @@ Atualmente curso **Engenharia de Software** e direciono meus estudos para a cria
 
 ---
 
-### 🎓 Formação & Certificações
+### Formação & Certificações
 
 * **Bacharelado em Engenharia de Software** *(Em andamento)*
 * **Qualificação Profissional: Desenvolvimento Front-End** (SENAI)
