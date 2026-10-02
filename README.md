@@ -9,6 +9,16 @@ Desenvolvo aplicações web e exploro integrações entre JavaScript, automaçã
 
 ## Projetos em destaque
 
+### [Buscador Contábil PGFN](https://inteligencia-contabil-git-main-tecnologiacbca01-3482s-projects.vercel.app/ranking)
+Projeto colaborativo: MVP web em Next.js para prospecção de empresas, com dados abertos da PGFN, enriquecimento cadastral e análise comercial assistida por IA.
+
+**Tecnologias e conceitos:** Next.js · Supabase · TypeScript · dados abertos · integração com IA
+
+### [FitLevel](https://github.com/Joaaomottaa/fitlevel)
+Projeto colaborativo do Hackathon Órbita 2026. Aplicação de saúde gamificada com evolução de avatar, check-ins, missões personalizadas e acompanhamento de hábitos.
+
+**Tecnologias e conceitos:** React · TypeScript · Supabase · n8n · gamificação
+
 ### [WhatsApp AI Assistant](https://github.com/nadson-engineer/whatsapp-ai-assistant)
 Bot para WhatsApp desenvolvido com Node.js, Baileys e Ollama. O projeto explora atendimento automatizado, processamento de mensagens e execução de um modelo de IA local.
 
