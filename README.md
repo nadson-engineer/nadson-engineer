@@ -38,8 +38,8 @@ Aplicação de linha de comando em JavaScript que calcula a média de notas de u
 
 ## Formação
 
-- **Engenharia de Software** — em andamento
-- **Qualificação Profissional em Desenvolvimento Front-End** — SENAI
+- **Engenharia de Software** - em andamento
+- **Qualificação Profissional em Desenvolvimento Front-End** - SENAI
 
 ## Idiomas
 
