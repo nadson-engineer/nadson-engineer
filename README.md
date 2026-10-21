@@ -46,12 +46,30 @@ Assistente que integra mensagens do WhatsApp a um modelo executado com Ollama, e
 
 ## Competências
 
+![Tecnologias: JavaScript, TypeScript, React, Node.js, Next.js, Supabase, MySQL, Tailwind CSS e Git](https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,supabase,mysql,tailwind,git&perline=9)
+
 | Área | Tecnologias |
 | :--- | :--- |
 | Front-end | JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS |
 | Back-end e dados | Node.js, MySQL |
 | IA e automação | Ollama, integração com APIs |
 | Práticas | Git, interfaces responsivas, Scrum, Kanban |
+
+## Atividade no GitHub
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadson-engineer&theme=github_dark">
+  <img alt="Histórico de contribuições no GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadson-engineer&theme=github" width="100%">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nadson-engineer&theme=github_dark">
+  <img alt="Linguagens por repositório público" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nadson-engineer&theme=github" width="49%">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadson-engineer&theme=github_dark">
+  <img alt="Estatísticas dos repositórios e contribuições públicas" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadson-engineer&theme=github" width="49%">
+</picture>
 
 ## Formação e idiomas
 
