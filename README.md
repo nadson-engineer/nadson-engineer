@@ -37,6 +37,18 @@ Me chamo Nadson Coelho, sou estudante de Engenharia de Software e tenho qualific
 <img alt="MySQL" title="MySQL" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 &nbsp;
 <img alt="Git" title="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+&nbsp;
+<img alt="Docker" title="Docker" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+&nbsp;
+<img alt="Banco vetorial" title="Banco vetorial" width="30" src="https://api.iconify.design/mdi/database-search.svg?color=%238b5cf6" />
+&nbsp;
+<img alt="Prisma" title="Prisma" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
+&nbsp;
+<img alt="Postman" title="Postman" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+&nbsp;
+<img alt="Python" title="Python" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+&nbsp;
+<img alt="LangChain" title="LangChain" width="30" src="https://cdn.simpleicons.org/langchain/2C9E8F" />
 </p>
 
 ### 📊 Estatísticas
