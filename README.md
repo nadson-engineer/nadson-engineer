@@ -28,6 +28,8 @@ Me chamo Nadson Coelho, sou estudante de Engenharia de Software e tenho qualific
 &nbsp;
 <img alt="Next.js" title="Next.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 &nbsp;
+<img alt="NestJS" title="NestJS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+&nbsp;
 <img alt="Node.js" title="Node.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 &nbsp;
 <img alt="Tailwind CSS" title="Tailwind CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
