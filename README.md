@@ -1,11 +1,50 @@
-# Nadson Coelho
-### Desenvolvedor Full Stack
+# 👨🏻‍💻 Nadson Coelho
 
-JavaScript · TypeScript · Node.js · React
+**`Desenvolvedor FullStack`**
 
-Desenvolvo aplicações web e integrações com inteligência artificial. Estudo Engenharia de Software, com interesse em arquitetura, automação e desempenho de aplicações.
+Me chamo Nadson Coelho, sou estudante de Engenharia de Software e tenho qualificação profissional em Desenvolvimento Front-End pelo SENAI. Desenvolvo aplicações web com JavaScript, TypeScript, React e Node.js, além de explorar integrações com inteligência artificial e automação. Atualmente, meus estudos estão voltados à arquitetura de software, performance web e execução de modelos de IA locais com Ollama.
 
-[LinkedIn](https://www.linkedin.com/in/nadson-oliveira) · [E-mail](mailto:nadsoncoelhofsa@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/nadson-oliveira"><img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nadsoncoelhofsa@gmail.com"><img alt="E-mail" title="Entre em contato" src="https://img.shields.io/badge/E--mail-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/nadson-engineer?tab=repositories&sort=stargazers"><img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/nadson-engineer?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /></a>
+  <a href="https://github.com/nadson-engineer?tab=followers"><img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/nadson-engineer?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /></a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<p align="left">
+<img alt="HTML" title="HTML" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+&nbsp;
+<img alt="CSS" title="CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+&nbsp;
+<img alt="JavaScript" title="JavaScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+&nbsp;
+<img alt="TypeScript" title="TypeScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+&nbsp;
+<img alt="React" title="React" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+&nbsp;
+<img alt="Next.js" title="Next.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+&nbsp;
+<img alt="Node.js" title="Node.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+&nbsp;
+<img alt="Tailwind CSS" title="Tailwind CSS" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+&nbsp;
+<img alt="Supabase" title="Supabase" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+&nbsp;
+<img alt="MySQL" title="MySQL" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+&nbsp;
+<img alt="Git" title="Git" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</p>
+
+### 📊 Estatísticas
+
+<p align="left">
+  <img alt="Estatísticas públicas do GitHub" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadson-engineer&theme=tokyonight" />
+  <img alt="Linguagens por repositório público" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nadson-engineer&theme=tokyonight" />
+</p>
 
 ---
 
@@ -44,41 +83,14 @@ Assistente que integra mensagens do WhatsApp a um modelo executado com Ollama, e
 
 ---
 
-## Competências
-
-![Tecnologias: JavaScript, TypeScript, React, Node.js, Next.js, Supabase, MySQL, Tailwind CSS e Git](https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,supabase,mysql,tailwind,git&perline=9)
-
-| Área | Tecnologias |
-| :--- | :--- |
-| Front-end | JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS |
-| Back-end e dados | Node.js, MySQL |
-| IA e automação | Ollama, integração com APIs |
-| Práticas | Git, interfaces responsivas, Scrum, Kanban |
-
-## Atividade no GitHub
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadson-engineer&theme=github_dark">
-  <img alt="Histórico de contribuições no GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadson-engineer&theme=github" width="100%">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nadson-engineer&theme=github_dark">
-  <img alt="Linguagens por repositório público" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nadson-engineer&theme=github" width="49%">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadson-engineer&theme=github_dark">
-  <img alt="Estatísticas dos repositórios e contribuições públicas" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadson-engineer&theme=github" width="49%">
-</picture>
-
 ## Formação e idiomas
 
-**Engenharia de Software** — em andamento  
-**Desenvolvimento Front-End** — qualificação profissional pelo SENAI
-
-Português nativo · Inglês técnico
+- **Engenharia de Software** — em andamento
+- **Desenvolvimento Front-End** — qualificação profissional pelo SENAI
+- **Idiomas:** Português nativo · Inglês técnico
 
 ---
 
-**Aberto a oportunidades em desenvolvimento de software.**  
+**Aberto a oportunidades em desenvolvimento de software.**
+
 [Vamos conversar](mailto:nadsoncoelhofsa@gmail.com)
