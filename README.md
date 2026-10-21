@@ -99,6 +99,8 @@ Aplicação colaborativa desenvolvida no Hackathon Órbita 2026. Combina acompan
 
 [Documento do sistema](https://github.com/nadson-engineer/nadson-engineer/blob/main/docs/fitlevel.md) · [Explorar repositório](https://github.com/Joaaomottaa/fitlevel)
 
+[![Acessar FitLevel](https://img.shields.io/badge/Acessar_FitLevel-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://fitlevel-six.vercel.app/)
+
 ---
 
 ### 04 / [WhatsApp AI Assistant](https://github.com/nadson-engineer/nadson-engineer/blob/main/docs/whatsapp-ai-assistant.md)
