@@ -1,4 +1,4 @@
-# WhatsApp AI Assistant — Documento do sistema
+# WhatsApp AI Assistant - Documento do sistema
 
 [Voltar ao perfil](../README.md) · [Repositório](https://github.com/nadson-engineer/whatsapp-ai-assistant)
 
