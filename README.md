@@ -96,7 +96,7 @@ A construção segue princípios de **modularização, SOLID e programação ori
 ### 03 / [FitLevel](https://github.com/nadson-engineer/nadson-engineer/blob/main/docs/fitlevel.md)
 **Tecnologia para incentivar hábitos saudáveis**
 
-Aplicação colaborativa desenvolvida no Hackathon Órbita 2026. Combina acompanhamento de hábitos, check-ins e missões com evolução de avatar.
+Projeto colaborativo campeão do Hackathon Órbita 2026. Aplicativo de saúde com IA integrada para acompanhar objetivos de ganho de massa muscular e perda de peso. Estima as calorias das refeições a partir de imagens enviadas pelo usuário e incentiva hábitos saudáveis por meio de check-ins, missões personalizadas e evolução de avatar.
 
 **Stack:** React · TypeScript · Supabase · n8n
 
