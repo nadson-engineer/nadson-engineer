@@ -5,7 +5,7 @@
 Desenvolvedor Full Stack com experiência em sistemas contábeis e tributários, onde reduzi retrabalho, tempo de carregamento e tempo de análise de dados. Campeão de hackathon com um app de saúde com IA integrada. Aprofundando-me em IA aplicada (LLMs, RAG e agentes) para resolver problemas reais de negócio.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nadson-oliveira"><img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nadson-coelho"><img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nadsoncoelhofsa@gmail.com"><img alt="E-mail" title="Entre em contato" src="https://img.shields.io/badge/E--mail-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/nadson-engineer?tab=repositories&sort=stargazers"><img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/nadson-engineer?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" /></a>
   <a href="https://github.com/nadson-engineer?tab=followers"><img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/nadson-engineer?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" /></a>
