@@ -57,7 +57,7 @@ Me chamo Nadson Coelho, sou estudante de Engenharia de Software e tenho qualific
 
 <p align="left">
   <img alt="Estatísticas públicas do GitHub" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nadson-engineer&theme=tokyonight" />
-  <img alt="Linguagens por repositório público" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nadson-engineer&theme=tokyonight" />
+  <img alt="Top stack by repo: NestJS, Node.js, Next.js e TypeScript" width="49%" src="https://raw.githubusercontent.com/nadson-engineer/nadson-engineer/main/assets/top-stack.svg" />
 </p>
 
 ---
