@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Nadson Coelho
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Full Stack`**
 
 Desenvolvedor Full Stack com experiência em sistemas contábeis e tributários, onde reduzi retrabalho, tempo de carregamento e tempo de análise de dados. Campeão de hackathon com um app de saúde com IA integrada. Aprofundando-me em IA aplicada (LLMs, RAG e agentes) para resolver problemas reais de negócio.
 
