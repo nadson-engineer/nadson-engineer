@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Nadson Coelho, sou estudante de Engenharia de Software e tenho qualificação profissional em Desenvolvimento Front-End pelo SENAI. Desenvolvo aplicações web com JavaScript, TypeScript, React e Node.js, além de explorar integrações com inteligência artificial e automação. Atualmente, meus estudos estão voltados à arquitetura de software, performance web e execução de modelos de IA locais com Ollama.
+Desenvolvedor Full Stack com experiência em sistemas contábeis e tributários, onde reduzi retrabalho, tempo de carregamento e tempo de análise de dados. Campeão de hackathon com um app de saúde com IA integrada. Aprofundando-me em IA aplicada (LLMs, RAG e agentes) para resolver problemas reais de negócio.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nadson-oliveira"><img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
