@@ -50,6 +50,8 @@ Me chamo Nadson Coelho, sou estudante de Engenharia de Software e tenho qualific
 
 ## Projetos selecionados
 
+> **Projetos da empresa:** o código-fonte e a documentação de arquitetura do **Buscador Contábil PGFN** e da **Fisconta Online** estão em repositórios privados no [GitHub da Castelo Branco](https://github.com/CasteloBrancoContabiidade). Por isso, esses materiais não aparecem nos meus repositórios públicos.
+
 ### 01 / Buscador Contábil PGFN
 **Dados públicos aplicados à prospecção empresarial**
 
@@ -57,11 +59,24 @@ MVP colaborativo que reúne informações da PGFN, enriquecimento cadastral e re
 
 **Stack:** Next.js · TypeScript · Supabase
 
+**Código e arquitetura:** mantidos nos repositórios privados da empresa.
+
 [Ver aplicação](https://inteligencia-contabil-git-main-tecnologiacbca01-3482s-projects.vercel.app/ranking)
 
 ---
 
-### 02 / FitLevel
+### 02 / Fisconta Online
+**Soluções digitais para serviços contábeis**
+
+Projeto desenvolvido no contexto da empresa, voltado à presença digital da Fisconta Online e ao atendimento contábil pela web.
+
+**Código e arquitetura:** mantidos nos repositórios privados da empresa.
+
+[Visitar site](https://www.fiscontaonline.com.br/) · [GitHub da empresa](https://github.com/CasteloBrancoContabiidade)
+
+---
+
+### 03 / FitLevel
 **Tecnologia para incentivar hábitos saudáveis**
 
 Aplicação colaborativa desenvolvida no Hackathon Órbita 2026. Combina acompanhamento de hábitos, check-ins e missões com evolução de avatar.
@@ -72,7 +87,7 @@ Aplicação colaborativa desenvolvida no Hackathon Órbita 2026. Combina acompan
 
 ---
 
-### 03 / WhatsApp AI Assistant
+### 04 / WhatsApp AI Assistant
 **Automação de conversas com inteligência artificial local**
 
 Assistente que integra mensagens do WhatsApp a um modelo executado com Ollama, explorando processamento de mensagens e respostas automatizadas.
