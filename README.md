@@ -55,7 +55,7 @@ Me chamo Nadson Coelho, sou estudante de Engenharia de Software e tenho qualific
 
 Aplicação colaborativa construída com **Next.js e TypeScript**, usando **Supabase** para persistência e autenticação. O sistema importa dados abertos da PGFN e da Receita Federal, consolida informações por CNPJ e oferece ranking, filtros e paginação no servidor para apoiar a prospecção de empresas.
 
-As integrações com fontes externas são organizadas em módulos independentes. Recursos de IA complementam a pesquisa de informações públicas e geram análises comerciais sob demanda, com registro das fontes e do histórico.
+A arquitetura segue princípios de **modularização, SOLID e programação orientada a objetos (POO)**, com **alta coesão e baixo acoplamento** para organizar responsabilidades e facilitar manutenção e evolução. As integrações com fontes externas ficam em módulos independentes. Recursos de IA complementam a pesquisa de informações públicas e geram análises comerciais sob demanda, com registro das fontes e do histórico.
 
 **Stack:** Next.js · TypeScript · Supabase
 
@@ -67,6 +67,8 @@ As integrações com fontes externas são organizadas em módulos independentes.
 **Soluções digitais para serviços contábeis**
 
 Site institucional construído com **React e TypeScript**, utilizando **Vite** no desenvolvimento e na geração da versão de produção. A interface utiliza **Tailwind CSS** para estilização e **Lucide React** para os ícones, apresentando os serviços contábeis, diferenciais da empresa e canais de contato.
+
+A construção segue princípios de **modularização, SOLID e programação orientada a objetos (POO)**, com **alta coesão e baixo acoplamento**, priorizando responsabilidades bem definidas e facilidade de manutenção e evolução.
 
 **Stack:** React · TypeScript · Vite · Tailwind CSS · Lucide React
 
