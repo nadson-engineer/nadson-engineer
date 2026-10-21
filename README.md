@@ -53,11 +53,11 @@ Me chamo Nadson Coelho, sou estudante de Engenharia de Software e tenho qualific
 ### 01 / Buscador Contábil PGFN
 **Dados públicos aplicados à prospecção empresarial**
 
-Aplicação colaborativa construída com **Next.js e TypeScript**, usando **Supabase** para persistência e autenticação. O sistema importa dados abertos da PGFN e da Receita Federal, consolida informações por CNPJ e oferece ranking, filtros e paginação no servidor para apoiar a prospecção de empresas.
+Aplicação colaborativa construída com **Next.js e TypeScript**, backend em **NestJS** e **Supabase** para persistência e autenticação. O sistema importa dados abertos da PGFN e da Receita Federal, consolida informações por CNPJ e oferece ranking, filtros e paginação no servidor para apoiar a prospecção de empresas.
 
-A arquitetura segue princípios de **modularização, SOLID e programação orientada a objetos (POO)**, com **alta coesão e baixo acoplamento** para organizar responsabilidades e facilitar manutenção e evolução. As integrações com fontes externas ficam em módulos independentes. Recursos de IA complementam a pesquisa de informações públicas e geram análises comerciais sob demanda, com registro das fontes e do histórico.
+A arquitetura segue princípios de **modularização, SOLID e programação orientada a objetos (POO)**, com **alta coesão e baixo acoplamento** para organizar responsabilidades e facilitar manutenção e evolução. As integrações com fontes externas ficam em módulos independentes. A integração com **IA (LLM Gemini)** complementa a pesquisa de informações públicas e gera análises comerciais sob demanda, com registro das fontes e do histórico.
 
-**Stack:** Next.js · TypeScript · Supabase
+**Stack:** Next.js · NestJS · TypeScript · Supabase · IA (LLM Gemini)
 
 [Ver aplicação](https://inteligencia-contabil-git-main-tecnologiacbca01-3482s-projects.vercel.app/ranking)
 
@@ -66,11 +66,11 @@ A arquitetura segue princípios de **modularização, SOLID e programação orie
 ### 02 / Fisconta Online
 **Soluções digitais para serviços contábeis**
 
-Site institucional construído com **React e TypeScript**, utilizando **Vite** no desenvolvimento e na geração da versão de produção. A interface utiliza **Tailwind CSS** para estilização e **Lucide React** para os ícones, apresentando os serviços contábeis, diferenciais da empresa e canais de contato.
+Site institucional construído com **React e TypeScript**, utilizando **Vite** no desenvolvimento e na geração da versão de produção. A interface utiliza **Tailwind CSS** para estilização, apresentando os serviços contábeis, diferenciais da empresa e canais de contato. O backend utiliza **NestJS**.
 
 A construção segue princípios de **modularização, SOLID e programação orientada a objetos (POO)**, com **alta coesão e baixo acoplamento**, priorizando responsabilidades bem definidas e facilidade de manutenção e evolução.
 
-**Stack:** React · TypeScript · Vite · Tailwind CSS · Lucide React
+**Stack:** React · NestJS · TypeScript · Vite · Tailwind CSS
 
 [Visitar site](https://www.fiscontaonline.com.br/)
 
