@@ -24,7 +24,7 @@ Desenvolvedor Full Stack com experiência em sistemas contábeis e tributários,
 &nbsp;
 <img alt="TypeScript" title="TypeScript" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 &nbsp;
-<img alt="React" title="React" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+**`Desenvolvedor Full Stack`**
 &nbsp;
 <img alt="Next.js" title="Next.js" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 &nbsp;
