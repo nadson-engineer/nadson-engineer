@@ -73,7 +73,7 @@ A arquitetura segue princípios de **modularização, SOLID e programação orie
 
 **Stack:** Next.js · NestJS · TypeScript · Supabase · IA (LLM Gemini)
 
-[Documento do sistema](https://github.com/nadson-engineer/nadson-engineer/blob/main/docs/pgfn.md) · [Ver aplicação](https://inteligencia-contabil-git-main-tecnologiacbca01-3482s-projects.vercel.app/ranking)
+[Documento do sistema](https://github.com/nadson-engineer/nadson-engineer/blob/main/docs/pgfn.md) · [Ver aplicação](https://inteligencia-contabil-git-main-tecnologiacbca01-3482s-projects.vercel.app/ranking) &nbsp; | &nbsp; **Código privado** - propriedade da empresa, indisponível para visualização pública.
 
 ---
 
