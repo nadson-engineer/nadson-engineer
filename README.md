@@ -1,50 +1,66 @@
 # Nadson Coelho
+### Desenvolvedor Full Stack
 
-**Desenvolvedor Full Stack | JavaScript, Node.js e integrações com IA**  
-Estudante de Engenharia de Software no Brasil.
+JavaScript · TypeScript · Node.js · React
 
-Desenvolvo aplicações web e exploro integrações entre JavaScript, automação e inteligência artificial. No momento, meus estudos estão voltados a arquitetura de software, aplicações com modelos locais usando Ollama e performance web.
+Desenvolvo aplicações web e integrações com inteligência artificial. Estudo Engenharia de Software, com interesse em arquitetura, automação e desempenho de aplicações.
 
 [LinkedIn](https://www.linkedin.com/in/nadson-oliveira) · [E-mail](mailto:nadsoncoelhofsa@gmail.com)
 
-## Projetos em destaque
+---
 
-### [Buscador Contábil PGFN](https://inteligencia-contabil-git-main-tecnologiacbca01-3482s-projects.vercel.app/ranking)
-Projeto colaborativo: MVP web em Next.js para prospecção de empresas, com dados abertos da PGFN, enriquecimento cadastral e análise comercial assistida por IA.
+## Projetos selecionados
 
-**Tecnologias e conceitos:** Next.js · Supabase · TypeScript · dados abertos · integração com IA
+### 01 / Buscador Contábil PGFN
+**Dados públicos aplicados à prospecção empresarial**
 
-### [FitLevel](https://github.com/Joaaomottaa/fitlevel)
-Projeto colaborativo do Hackathon Órbita 2026. Aplicação de saúde gamificada com evolução de avatar, check-ins, missões personalizadas e acompanhamento de hábitos.
+MVP colaborativo que reúne informações da PGFN, enriquecimento cadastral e recursos de IA para apoiar análises comerciais.
 
-**Tecnologias e conceitos:** React · TypeScript · Supabase · n8n · gamificação
+**Stack:** Next.js · TypeScript · Supabase
 
-### [WhatsApp AI Assistant](https://github.com/nadson-engineer/whatsapp-ai-assistant)
-Bot para WhatsApp desenvolvido com Node.js, Baileys e Ollama. O projeto explora atendimento automatizado, processamento de mensagens e execução de um modelo de IA local.
-
-**Tecnologias:** Node.js · Baileys · Ollama · Axios
-
-### [Notas dos Atletas](https://github.com/nadson-engineer/notas-atletas)
-Aplicação de linha de comando em JavaScript que calcula a média de notas de uma competição, descartando a maior e a menor pontuação.
-
-**Demonstra:** lógica de programação · arrays · funções · Node.js
-
-## Competências
-
-- **Desenvolvimento web:** JavaScript, TypeScript, React, HTML, CSS e Tailwind CSS
-- **Backend e dados:** Node.js e MySQL
-- **IA e automação:** integração com Ollama e APIs
-- **Ferramentas e práticas:** Git, desenvolvimento responsivo, Scrum e Kanban
-
-## Formação
-
-- **Engenharia de Software** - em andamento
-- **Qualificação Profissional em Desenvolvimento Front-End** - SENAI
-
-## Idiomas
-
-Português (nativo) · Inglês (técnico)
+[Ver aplicação](https://inteligencia-contabil-git-main-tecnologiacbca01-3482s-projects.vercel.app/ranking)
 
 ---
 
-Estou aberto a oportunidades e conversas sobre desenvolvimento de software.
+### 02 / FitLevel
+**Tecnologia para incentivar hábitos saudáveis**
+
+Aplicação colaborativa desenvolvida no Hackathon Órbita 2026. Combina acompanhamento de hábitos, check-ins e missões com evolução de avatar.
+
+**Stack:** React · TypeScript · Supabase · n8n
+
+[Explorar repositório](https://github.com/Joaaomottaa/fitlevel)
+
+---
+
+### 03 / WhatsApp AI Assistant
+**Automação de conversas com inteligência artificial local**
+
+Assistente que integra mensagens do WhatsApp a um modelo executado com Ollama, explorando processamento de mensagens e respostas automatizadas.
+
+**Stack:** Node.js · Baileys · Ollama · Axios
+
+[Explorar repositório](https://github.com/nadson-engineer/whatsapp-ai-assistant)
+
+---
+
+## Competências
+
+| Área | Tecnologias |
+| :--- | :--- |
+| Front-end | JavaScript, TypeScript, React, HTML, CSS, Tailwind CSS |
+| Back-end e dados | Node.js, MySQL |
+| IA e automação | Ollama, integração com APIs |
+| Práticas | Git, interfaces responsivas, Scrum, Kanban |
+
+## Formação e idiomas
+
+**Engenharia de Software** — em andamento  
+**Desenvolvimento Front-End** — qualificação profissional pelo SENAI
+
+Português nativo · Inglês técnico
+
+---
+
+**Aberto a oportunidades em desenvolvimento de software.**  
+[Vamos conversar](mailto:nadsoncoelhofsa@gmail.com)
