@@ -1,4 +1,4 @@
-# Buscador Contábil PGFN — Documento do sistema
+# Buscador Contábil PGFN - Documento do sistema
 
 [Voltar ao perfil](../README.md)
 
