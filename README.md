@@ -62,7 +62,7 @@ Me chamo Nadson Coelho, sou estudante de Engenharia de Software e tenho qualific
 
 ## Projetos selecionados
 
-### 01 / Buscador Contábil PGFN
+### 01 / [Buscador Contábil PGFN](https://github.com/nadson-engineer/nadson-engineer/blob/main/docs/pgfn.md)
 **Dados públicos aplicados à prospecção empresarial**
 
 Aplicação colaborativa construída com **Next.js e TypeScript**, backend em **NestJS** e **Supabase** para persistência e autenticação. O sistema importa dados abertos da PGFN e da Receita Federal, consolida informações por CNPJ e oferece ranking, filtros e paginação no servidor para apoiar a prospecção de empresas.
@@ -71,11 +71,11 @@ A arquitetura segue princípios de **modularização, SOLID e programação orie
 
 **Stack:** Next.js · NestJS · TypeScript · Supabase · IA (LLM Gemini)
 
-[Ver aplicação](https://inteligencia-contabil-git-main-tecnologiacbca01-3482s-projects.vercel.app/ranking)
+[Documento do sistema](https://github.com/nadson-engineer/nadson-engineer/blob/main/docs/pgfn.md) · [Ver aplicação](https://inteligencia-contabil-git-main-tecnologiacbca01-3482s-projects.vercel.app/ranking)
 
 ---
 
-### 02 / Fisconta Online
+### 02 / [Fisconta Online](https://github.com/nadson-engineer/nadson-engineer/blob/main/docs/fisconta.md)
 **Soluções digitais para serviços contábeis**
 
 Site institucional construído com **React e TypeScript**, utilizando **Vite** no desenvolvimento e na geração da versão de produção. A interface utiliza **Tailwind CSS** para estilização, apresentando os serviços contábeis, diferenciais da empresa e canais de contato. O backend utiliza **NestJS**.
@@ -84,29 +84,29 @@ A construção segue princípios de **modularização, SOLID e programação ori
 
 **Stack:** React · NestJS · TypeScript · Vite · Tailwind CSS
 
-[Visitar site](https://www.fiscontaonline.com.br/)
+[Documento do sistema](https://github.com/nadson-engineer/nadson-engineer/blob/main/docs/fisconta.md) · [Visitar site](https://www.fiscontaonline.com.br/)
 
 ---
 
-### 03 / FitLevel
+### 03 / [FitLevel](https://github.com/nadson-engineer/nadson-engineer/blob/main/docs/fitlevel.md)
 **Tecnologia para incentivar hábitos saudáveis**
 
 Aplicação colaborativa desenvolvida no Hackathon Órbita 2026. Combina acompanhamento de hábitos, check-ins e missões com evolução de avatar.
 
 **Stack:** React · TypeScript · Supabase · n8n
 
-[Explorar repositório](https://github.com/Joaaomottaa/fitlevel)
+[Documento do sistema](https://github.com/nadson-engineer/nadson-engineer/blob/main/docs/fitlevel.md) · [Explorar repositório](https://github.com/Joaaomottaa/fitlevel)
 
 ---
 
-### 04 / WhatsApp AI Assistant
+### 04 / [WhatsApp AI Assistant](https://github.com/nadson-engineer/nadson-engineer/blob/main/docs/whatsapp-ai-assistant.md)
 **Automação de conversas com inteligência artificial local**
 
 Assistente que integra mensagens do WhatsApp a um modelo executado com Ollama, explorando processamento de mensagens e respostas automatizadas.
 
 **Stack:** Node.js · Baileys · Ollama · Axios
 
-[Explorar repositório](https://github.com/nadson-engineer/whatsapp-ai-assistant)
+[Documento do sistema](https://github.com/nadson-engineer/nadson-engineer/blob/main/docs/whatsapp-ai-assistant.md) · [Explorar repositório](https://github.com/nadson-engineer/whatsapp-ai-assistant)
 
 ---
 
