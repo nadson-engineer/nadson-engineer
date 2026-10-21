@@ -1,10 +1,10 @@
-# FitLevel — Documento do sistema
+# FitLevel - Documento do sistema
 
 [Voltar ao perfil](../README.md) · [Repositório](https://github.com/Joaaomottaa/fitlevel)
 
 ## Contexto e objetivo
 
-Projeto colaborativo do Hackathon Órbita 2026 para incentivar hábitos por meio de check-ins, missões e evolução de avatar. A restrição de tempo favorece demonstração funcional e integração rápida. É uma aplicação de hábitos e gamificação; benefícios clínicos e redução de despesas de saúde não foram demonstrados.
+Projeto colaborativo do Hackathon Órbita 2026 para controle de ganho e perda de massa muscular e incentivar hábitos por meio de check-ins, missões e evolução de avatar. A restrição de tempo favorece demonstração funcional e integração rápida. É uma aplicação de hábitos e gamificação; benefícios clínicos e redução de despesas de saúde não foram demonstrados.
 
 ## Base das informações
 
