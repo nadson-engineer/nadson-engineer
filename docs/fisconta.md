@@ -1,4 +1,4 @@
-# Fisconta Online — Documento do sistema
+# Fisconta Online - Documento do sistema
 
 [Voltar ao perfil](../README.md) · [Site público](https://www.fiscontaonline.com.br/)
 
