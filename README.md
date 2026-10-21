@@ -119,8 +119,8 @@ Assistente que integra mensagens do WhatsApp a um modelo executado com Ollama, e
 
 ## Formação e idiomas
 
-- **Engenharia de Software** — em andamento
-- **Desenvolvimento Front-End** — qualificação profissional pelo SENAI
+- **Engenharia de Software** - em andamento
+- **Desenvolvimento Front-End** - qualificação profissional pelo SENAI
 - **Idiomas:** Português nativo · Inglês técnico
 
 ---
