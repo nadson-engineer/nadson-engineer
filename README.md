@@ -86,7 +86,10 @@ A construção segue princípios de **modularização, SOLID e programação ori
 
 **Stack:** React · NestJS · TypeScript · Vite · Tailwind CSS
 
-[Documento do sistema](https://github.com/nadson-engineer/nadson-engineer/blob/main/docs/fisconta.md) · [Visitar site](https://www.fiscontaonline.com.br/)
+<p>
+  <a href="https://github.com/nadson-engineer/nadson-engineer/blob/main/docs/fisconta.md">Documento do sistema</a> · <a href="https://www.fiscontaonline.com.br/">Visitar site</a>
+  <span> &nbsp; | &nbsp; <strong>Código privado</strong> — propriedade da empresa, indisponível para visualização pública.</span>
+</p>
 
 ---
 
