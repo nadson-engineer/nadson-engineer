@@ -50,16 +50,14 @@ Me chamo Nadson Coelho, sou estudante de Engenharia de Software e tenho qualific
 
 ## Projetos selecionados
 
-> **Projetos da empresa:** o código-fonte e a documentação de arquitetura do **Buscador Contábil PGFN** e da **Fisconta Online** estão em repositórios privados no [GitHub da Castelo Branco](https://github.com/CasteloBrancoContabiidade). Por isso, esses materiais não aparecem nos meus repositórios públicos.
-
 ### 01 / Buscador Contábil PGFN
 **Dados públicos aplicados à prospecção empresarial**
 
-MVP colaborativo que reúne informações da PGFN, enriquecimento cadastral e recursos de IA para apoiar análises comerciais.
+Aplicação colaborativa construída com **Next.js e TypeScript**, usando **Supabase** para persistência e autenticação. O sistema importa dados abertos da PGFN e da Receita Federal, consolida informações por CNPJ e oferece ranking, filtros e paginação no servidor para apoiar a prospecção de empresas.
+
+As integrações com fontes externas são organizadas em módulos independentes. Recursos de IA complementam a pesquisa de informações públicas e geram análises comerciais sob demanda, com registro das fontes e do histórico.
 
 **Stack:** Next.js · TypeScript · Supabase
-
-**Código e arquitetura:** mantidos nos repositórios privados da empresa.
 
 [Ver aplicação](https://inteligencia-contabil-git-main-tecnologiacbca01-3482s-projects.vercel.app/ranking)
 
@@ -68,11 +66,11 @@ MVP colaborativo que reúne informações da PGFN, enriquecimento cadastral e re
 ### 02 / Fisconta Online
 **Soluções digitais para serviços contábeis**
 
-Projeto desenvolvido no contexto da empresa, voltado à presença digital da Fisconta Online e ao atendimento contábil pela web.
+Site institucional construído com **React e TypeScript**, utilizando **Vite** no desenvolvimento e na geração da versão de produção. A interface utiliza **Tailwind CSS** para estilização e **Lucide React** para os ícones, apresentando os serviços contábeis, diferenciais da empresa e canais de contato.
 
-**Código e arquitetura:** mantidos nos repositórios privados da empresa.
+**Stack:** React · TypeScript · Vite · Tailwind CSS · Lucide React
 
-[Visitar site](https://www.fiscontaonline.com.br/) · [GitHub da empresa](https://github.com/CasteloBrancoContabiidade)
+[Visitar site](https://www.fiscontaonline.com.br/)
 
 ---
 
