@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Nadson Coelho
+# Nadson Coelho
 
 **`Desenvolvedor Full Stack`**
 
